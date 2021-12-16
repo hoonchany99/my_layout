@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter layout demo',
       home: Scaffold(
           appBar: AppBar(
-            title: const Text('Flutter layout demo'),
+            title: const Text('Flutter layout demo!'),
           ),
           body: ListView(
             children: [t, b, txt],
